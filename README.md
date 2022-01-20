@@ -16,7 +16,6 @@ Paper: https://openreview.net/forum?id=7TZeCsNOUB_<br>
 4. [Training](#Training)
 5. [Evaluation and Logging](#Evaluation)
 6. [Contact](#Contact)
-7. [License](#License)
 8. [How to Cite](#How-to-Cite)
 
 
@@ -114,11 +113,6 @@ See [StyleGAN2+ADA instructions](https://github.com/NVlabs/stylegan2-ada-pytorch
 ## Contact<a name="Contact"></a>
 For any questions, suggestions, or issues with the code, please contact Mohamad Shahbazi at [mshahbazi@vision.ee.ethz.ch](mailto:mshahbazi@vision.ee.ethz.ch)<br>
 
-## License<a name="License"></a>
-
-Copyright &copy; 2021, NVIDIA Corporation. All rights reserved.
-
-This work is made available under the [Nvidia Source Code License](https://nvlabs.github.io/stylegan2-ada-pytorch/license.html).
 
 ## How to Cite<a name="How-to-Cite"></a>
 
