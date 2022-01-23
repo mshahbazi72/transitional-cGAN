@@ -117,10 +117,20 @@ For any questions, suggestions, or issues with the code, please contact Mohamad 
 ## How to Cite<a name="How-to-Cite"></a>
 
 ```
-@inproceedings{Karras2020ada,
-  title     = {Training Generative Adversarial Networks with Limited Data},
-  author    = {Tero Karras and Miika Aittala and Janne Hellsten and Samuli Laine and Jaakko Lehtinen and Timo Aila},
-  booktitle = {Proc. NeurIPS},
-  year      = {2020}
+@inproceedings{
+anonymous2022collapse,
+title={Collapse by Conditioning: Training Class-conditional {GAN}s with Limited Data},
+author={Anonymous},
+booktitle={Submitted to The Tenth International Conference on Learning Representations },
+year={2022},
+url={https://openreview.net/forum?id=7TZeCsNOUB_},
+note={under review}
+}@inproceedings{
+anonymous2022collapse,
+title={Collapse by Conditioning: Training Class-conditional {GAN}s with Limited Data},
+author={Anonymous},
+booktitle={Submitted to The Tenth International Conference on Learning Representations },
+year={2022},
+url={https://openreview.net/forum?id=7TZeCsNOUB_},
 }
 ```
