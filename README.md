@@ -1,5 +1,7 @@
 ## Collapse by Conditioning: Training Class-conditional GANs with Limited Data
 
+### Accepted at ICLR 2022
+
 [Mohamad Shahbazi](https://people.ee.ethz.ch/~mshahbazi/), [Martin Danelljan](https://martin-danelljan.github.io/), [Danda P. Paudel](https://people.ee.ethz.ch/~paudeld/), [Luc Van Gool](https://scholar.google.ch/citations?hl=en&user=TwMib_QAAAAJ)<br>
 Paper: https://openreview.net/forum?id=7TZeCsNOUB_<br>
 
