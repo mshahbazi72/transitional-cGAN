@@ -122,8 +122,9 @@ For any questions, suggestions, or issues with the code, please contact Mohamad 
 @inproceedings{
 shahbazi2022collapse,
 title={Collapse by Conditioning: Training Class-conditional {GAN}s with Limited Data},
-author={Shahbazi, Mohamad and Danelljan, Martin and Pani Paudel, Danda and Van Gool, Luc},
-booktitle={The Tenth International Conference on Learning Representations },
+author={Mohamad Shahbazi and Martin Danelljan and Danda Pani Paudel and Luc Van Gool},
+booktitle={International Conference on Learning Representations},
 year={2022},
 url={https://openreview.net/forum?id=7TZeCsNOUB_}
+}
 ```
