@@ -3,7 +3,7 @@
 ### Accepted at ICLR 2022
 
 [Mohamad Shahbazi](https://people.ee.ethz.ch/~mshahbazi/), [Martin Danelljan](https://martin-danelljan.github.io/), [Danda P. Paudel](https://people.ee.ethz.ch/~paudeld/), [Luc Van Gool](https://scholar.google.ch/citations?hl=en&user=TwMib_QAAAAJ)<br>
-Paper: https://arxiv.org/abs/2201.06578_<br>
+Paper: https://arxiv.org/abs/2201.06578<br>
 
 ![Teaser image](./docs/main.png)
 
